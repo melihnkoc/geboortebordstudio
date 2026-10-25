@@ -2,6 +2,10 @@
   "id": "voetbalshirt-1",
   "title": "Geboortebord Voetbalshirt met Naam en Nummer",
   "category": "geboorteborden",
+  "type": {
+    "Team": ["Oranjes", "Ajax", "PSV", "Feyenoord"],
+    "Rugnummer ": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+  },
   "price": "59.90",
   "description": "Vier de komst van jullie kleintje met dit prachtige geboortebord in de vorm van het legendarische voetbalshirt!",
 }
