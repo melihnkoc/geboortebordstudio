@@ -2,7 +2,10 @@
   "id": "ooievaar-1",
   "title": "Exclusief Geboortebord Ooievaar",
   "category": "geboorteborden",
-  "type": ["Groen", "Blauw", "Rose"],
+  "type": {
+    "Color": ["Groen", "Blauw", "Rose"],
+    "Model": ["Hart", "Ster"]
+  }
   "price": "59.90",
   "description": "Vier de komst van jullie kleintje met dit prachtige ooievaar geboortebord!",
   "popular": true
