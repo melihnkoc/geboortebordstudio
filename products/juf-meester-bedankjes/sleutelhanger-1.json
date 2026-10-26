@@ -2,7 +2,9 @@
   "id": "sleutelhanger-1",
   "title": "Exclusive Sleutelhanger Juf of Meester",
   "category": "juf-meester-bedankjes",
-  "type": ["Bedankt voor Alles!", "Eerste verjaardag"],
+  "type": {
+    "Naam (Voorzijde)": 12, 
+    "Schrijven (Achterzijde)": 24
   "price": "19.90",
   "description": "Geef je juf of meester een blijvend en betekenisvol bedankje met deze persoonlijke, met laser gegraveerde houten sleutelhanger.",
 }
