@@ -2,6 +2,9 @@
   "id": "luchtballon-1",
   "title": "Houten Luchtballon met Naam",
   "category": "kinderkamer-decoratie",
+  "type": {
+    "Naam kind": 16,
+  },
   "price": "29.90",
   "description": "Prachtig handgemaakt houten naamkado in de vorm van een luchtballon – de perfecte sfeermaker en persoonlijke wanddecoratie voor de kinderkamer.",
   "popular": true
