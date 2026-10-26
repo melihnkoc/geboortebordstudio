@@ -2,6 +2,10 @@
   "id": "onderzetter-1",
   "title": "Houten Onderzetter Set Juf of Meester",
   "category": "juf-meester-bedankjes",
+  "type": {
+    "Naam ontvanger (Voor wie?)": 16,
+    "Naam gever (Van wie?):" 16
+  },
   "price": "29.90",
   "description": "Geef je juf of meester een blijvend en betekenisvol bedankje met deze persoonlijke, met laser gegraveerde houten onderzetter.",
 }
