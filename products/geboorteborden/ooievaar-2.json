@@ -2,7 +2,9 @@
   "id": "ooievaar-2",
   "title": "Vliegende Geboortebord Ooievaar",
   "category": "geboorteborden",
-  "type": ["Groen", "Blauw", "Rose"],
+  "type": {
+    "Kleur": ["Groen", "Blauw", "Rose"],
+  },
   "price": "59.90",
   "description": "Vier de komst van jullie kleintje met dit vliegende ooievaar geboortebord!",
   "popular": false
