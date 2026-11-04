@@ -3,7 +3,11 @@
   "title": "Vliegende Geboortebord Ooievaar",
   "category": "geboorteborden",
   "type": {
-    "Kleur": ["Groen", "Blauw", "Rose"],
+    "Kleur": [
+      { "title": "Groen", "image": "green.jpg" },
+      { "title": "Blauw", "image": "blue.jpg" },
+      { "title": "Roze", "image": "pink.jpg" }
+    ],
     "Babynaam": 16
   },
   "price": "59.90",
