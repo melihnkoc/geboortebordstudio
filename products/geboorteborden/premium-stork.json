@@ -4,9 +4,9 @@
   "category": "geboorteborden",
   "type": {
     "Kleur": [
-      { "title": "Groen", "image": "green.jpg" },
-      { "title": "Blauw", "image": "blue.jpg" },
-      { "title": "Roze", "image": "pink.jpg" }
+      { "title": "Groen", "image": "premium-stork_green.jpg" },
+      { "title": "Blauw", "image": "premium-stork_blue.jpg" },
+      { "title": "Roze", "image": "premium-stork_pink.jpg" }
     ],
     "Model": ["Hart", "Ster"],
     "Babynaam": 16
