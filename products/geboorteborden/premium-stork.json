@@ -3,7 +3,11 @@
   "title": "Exclusief Geboortebord Ooievaar",
   "category": "geboorteborden",
   "type": {
-    "Kleur": ["Groen", "Blauw", "Rose"],
+    "Kleur": [
+      { "title": "Groen", "image": "green.jpg" },
+      { "title": "Blauw", "image": "blue.jpg" },
+      { "title": "Roze", "image": "pink.jpg" }
+    ],
     "Model": ["Hart", "Ster"],
     "Babynaam": 16
   },
