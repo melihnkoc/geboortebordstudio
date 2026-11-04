@@ -4,9 +4,9 @@
   "category": "geboorteborden",
   "type": {
     "Kleur": [
-      { "title": "Groen", "image": "green.jpg" },
-      { "title": "Blauw", "image": "blue.jpg" },
-      { "title": "Roze", "image": "pink.jpg" }
+      { "title": "Groen", "image": "flying-stork_green.jpg" },
+      { "title": "Blauw", "image": "flying-stork_blue.jpg" },
+      { "title": "Roze", "image": "flying-stork_pink.jpg" }
     ],
     "Babynaam": 16
   },
