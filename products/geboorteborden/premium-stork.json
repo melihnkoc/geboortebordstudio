@@ -3,15 +3,23 @@
   "title": "Exclusief Geboortebord Ooievaar",
   "category": "geboorteborden",
   "type": {
-    "Kleur": [
-      { "title": "Groen", "image": "premium-stork_green.jpg" },
-      { "title": "Blauw", "image": "premium-stork_blue.jpg" },
-      { "title": "Roze", "image": "premium-stork_pink.jpg" }
-    ],
+    "Size": ["Small", "Medium", "Large"],
+    "Kleur": ["Groen", "Blauw", "Roze"],
     "Model": ["Hart", "Ster"],
     "Babynaam": 16
   },
-  "price": "59.90",
+  "combination": [
+    { "Kleur": "Groen", "Size":"Small", "image": "flying-stork_green.jpg", "price": "59.90", "stripe_price_id":"price_1UZGsNCkH9oWe3sctd4cfAru" },
+    { "Kleur": "Groen", "Size":"Medium", "image": "flying-stork_green.jpg", "price": "64.90", "stripe_price_id":"price_1UZGsNCkH9oWe3sctd4cfAru" },
+    { "Kleur": "Groen", "Size":"Large", "image": "flying-stork_green.jpg", "price": "69.90", "stripe_price_id":"price_1UZGsNCkH9oWe3sctd4cfAru" },
+    { "Kleur": "Blauw", "Size":"Small", "image": "flying-stork_blue.jpg", "price": "59.90", "stripe_price_id":"price_1UZGt2CkH9oWe3sc2q38Z9yg" },
+    { "Kleur": "Blauw", "Size":"Medium", "image": "flying-stork_blue.jpg", "price": "64.90", "stripe_price_id":"price_1UZGt2CkH9oWe3sc2q38Z9yg" },
+    { "Kleur": "Blauw", "Size":"Large", "image": "flying-stork_blue.jpg", "price": "69.90", "stripe_price_id":"price_1UZGt2CkH9oWe3sc2q38Z9yg" },
+    { "Kleur": "Roze", "Size":"Small", "image": "flying-stork_pink.jpg", "price": "59.90", "stripe_price_id":"price_1UZH06CkH9oWe3sc3Chk7Fhk" },
+    { "Kleur": "Roze", "Size":"Medium", "image": "flying-stork_pink.jpg", "price": "64.90", "stripe_price_id":"price_1UZH06CkH9oWe3sc3Chk7Fhk" },
+    { "Kleur": "Roze", "Size":"Large", "image": "flying-stork_pink.jpg", "price": "69.90", "stripe_price_id":"price_1UZH06CkH9oWe3sc3Chk7Fhk" }
+  ]
+  "default_price": "59.90",
   "description": "Vier de komst van jullie kleintje met dit prachtige ooievaar geboortebord!",
   "popular": true
 }
