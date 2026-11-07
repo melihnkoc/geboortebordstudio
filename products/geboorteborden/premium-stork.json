@@ -19,7 +19,6 @@
     { "Kleur": "Roze", "Size":"Medium", "image": "flying-stork_pink.jpg", "price": "64.90", "stripe_price_id":"price_1UZH06CkH9oWe3sc3Chk7Fhk" },
     { "Kleur": "Roze", "Size":"Large", "image": "flying-stork_pink.jpg", "price": "69.90", "stripe_price_id":"price_1UZH06CkH9oWe3sc3Chk7Fhk" }
   ]
-  "default_price": "59.90",
   "description": "Vier de komst van jullie kleintje met dit prachtige ooievaar geboortebord!",
   "popular": true
 }
